@@ -3,8 +3,8 @@
   "site": "housevideo-walk",
   "domain": "walk.housevideo.app",
   "sourceRepository": "DaveHomeAssist/system-by-dave",
-  "sourceCommit": "f7da99e4711bb59a344033f4fc699c5b91a5ae20",
+  "sourceCommit": "5d05b75975e1f36c1ab711d570683657f091a4e4",
   "cutover": true,
   "files": 20,
-  "artifactSha256": "0105ce21746b7b4e4fc40eba8e72151f7b9102fdf27899065161c4557df90f09"
+  "artifactSha256": "c72bf7cdabd944558711b47709d680b82f689a4455155ef4a02e4024e11d6184"
 }
