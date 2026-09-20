@@ -1,0 +1,10 @@
+{
+  "schema": "system-by-dave.domain-site.v1",
+  "site": "housevideo-walk",
+  "domain": "walk.housevideo.app",
+  "sourceRepository": "DaveHomeAssist/system-by-dave",
+  "sourceCommit": "f7da99e4711bb59a344033f4fc699c5b91a5ae20",
+  "cutover": true,
+  "files": 20,
+  "artifactSha256": "0105ce21746b7b4e4fc40eba8e72151f7b9102fdf27899065161c4557df90f09"
+}
